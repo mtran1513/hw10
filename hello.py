@@ -1,3 +1,4 @@
-# Default is "World"
+# Default is World
+# Author: Mike Tran
 name = 'World'
 print("Hello, " + name)
